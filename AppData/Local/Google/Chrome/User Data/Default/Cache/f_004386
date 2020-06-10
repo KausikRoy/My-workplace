@@ -1,0 +1,682 @@
+WEBVTT
+
+00:01.000 --> 00:02.200
+Wracają.
+
+00:02.200 --> 00:07.140
+Teraz zobaczymy, jak źle opublikują wyniki naszej pracy.
+
+00:07.210 --> 00:13.810
+Teraz mamy projekt o niesamowitej pracy i stworzyłem jeszcze jedną pracę i koncert, który jest projektem.
+
+00:13.810 --> 00:15.920
+Więc teraz jesteśmy tym zainteresowani.
+
+00:16.280 --> 00:16.880
+DOBRZE.
+
+00:17.110 --> 00:23.600
+Zanim więc pomówię o tym blogowaniu, pozwól mi wrócić do moich goździków.
+
+00:23.830 --> 00:31.060
+A kiedy już zrobisz ze mną swój projekt i odświeżysz swój projekt, a zobaczysz coś
+
+00:31.160 --> 00:34.970
+w rodzaju miecza, twój cel dla tego.
+
+00:35.200 --> 00:41.460
+Więc gdy otworzysz cel, zobaczysz pewnie raporty ogniowe, ponieważ ta wtyczka jest odpowiedzialna za testowanie.
+
+00:41.460 --> 00:42.070
+Dobrze.
+
+00:42.160 --> 00:45.750
+Po zakończeniu testów dostaniesz dla siebie kilka raportów.
+
+00:46.330 --> 00:52.210
+Jeśli więc ostrożnie rozszerzysz te raporty, zobaczysz faktycznie wskaźnik rozpoczęcia.
+
+00:52.210 --> 01:01.140
+Jego zespół będzie miał wszystkie twoje części sprawy lub pozwól mi je skopiować i wkleić, ale ten wynik nie
+
+01:04.870 --> 01:11.400
+wygląda zbyt dobrze, ale możesz zobaczyć metody bostońskie dla tych, które są wymienione
+
+01:11.790 --> 01:14.100
+z Tobą, które zamieściłem.
+
+01:14.330 --> 01:21.740
+Są to podatki, które mamy i cały nasz ostatni dzień zobaczysz w ten sposób, a jednocześnie
+
+01:22.460 --> 01:26.480
+zobaczysz, że jeden plik z nimi nie bada.
+
+01:26.600 --> 01:31.760
+Więc wszystko, co robisz, jest generowane w przystępnym formacie.
+
+01:32.220 --> 01:41.000
+OK, teraz jest to skąpe, że zapewniłeś sobie jedną przyszłość, że jeśli zdasz egzamin na swój test, utworzy
+
+01:41.000 --> 01:43.970
+dla ciebie raporty w Jenkyns.
+
+01:44.370 --> 01:44.690
+DOBRZE.
+
+01:44.690 --> 01:51.620
+Tak więc test i wymyślili jedną wtyczkę, którą można zintegrować z Jenkin's w celu generowania raportów.
+
+01:51.710 --> 01:54.660
+Więc nasze przeznaczenie spodziewa się generować raporty.
+
+01:54.680 --> 02:03.980
+Czy ten prosty plik potrzebuje tego po części, aby mógł przygotować raporty, czytając to na przykładzie.
+
+02:04.240 --> 02:04.740
+DOBRZE.
+
+02:04.850 --> 02:07.170
+Rzućmy więc ten prosty plik.
+
+02:07.430 --> 02:11.500
+Zainstaluj także ten test i podłącz go, aby zobaczyć, jakie wyniki.
+
+02:11.530 --> 02:17.410
+Silnik szybko się kręci, musimy zainstalować tę wtyczkę.
+
+02:17.410 --> 02:18.040
+Dobrze.
+
+02:18.090 --> 02:29.340
+Idź do mojego imienia Jenkin, a jeśli zejdzie, zobaczysz coś podobnego do wielu wtyczek OK.
+
+02:29.380 --> 02:35.100
+Więc są one dostępne i są już zainstalowane, a to znowu jest zaawansowana aplikacja.
+
+02:35.560 --> 02:39.610
+Więc chcesz o tym żądnym rację.
+
+02:40.210 --> 02:49.770
+Po prostu idź i wyszukaj i przetestuj i Z, a ponieważ zobaczę teraz w mojej misji, jest już zainstalowany, ponieważ
+
+02:50.010 --> 02:54.390
+właśnie zainstalowałem kilka dni temu, aby nad tym pracować.
+
+02:54.420 --> 02:58.240
+Jeśli to przyjdzie, zobaczymy to tak.
+
+02:58.290 --> 03:01.520
+I to nie jest podłączenie.
+
+03:01.530 --> 03:05.070
+OK, więc to jest wtyczka, którą musisz pobrać.
+
+03:05.590 --> 03:11.170
+W tej chwili dla mnie nie jest to w pasku startowym.
+
+03:11.500 --> 03:15.790
+Do czasu, gdy będziesz chodzić, nie będziesz mieć tego domyślnie.
+
+03:15.820 --> 03:24.550
+Więc jeśli powiesz test w G i klikniesz tutaj, zostaniesz wypełniony, wybierz to i możesz
+
+03:24.550 --> 03:32.580
+powiedzieć, pobierz i zrestartuj Jenkyns, aby wtyczka była dostępna po uruchomieniu Jenkinsa.
+
+03:32.980 --> 03:35.300
+Chyba nic nie widzę.
+
+03:36.720 --> 03:44.050
+Może więc go odinstaluję i pokażę, jak to działa poprawnie.
+
+03:44.220 --> 03:45.050
+Zróbmy to.
+
+03:47.030 --> 03:50.220
+Unstinted to wtyczka i
+
+03:52.990 --> 03:53.910
+instalacja.
+
+03:54.440 --> 04:01.330
+Więc udało mi się zainstalować teraz i pozwól mi wrócić do tego,
+
+04:08.300 --> 04:11.640
+jak sądzę, podłączyć K ..
+
+04:11.730 --> 04:14.180
+To jest prawo jednostki.
+
+04:15.270 --> 04:20.130
+Możesz użyć wtyczki G-Unit, która również daje wyniki w podobny sposób.
+
+04:20.210 --> 04:27.670
+Rozszerza to samo uproszczenie, czego szukasz, ale teraz jesteśmy zainteresowani kurzem i muszę zacząć
+
+04:32.510 --> 04:39.450
+od nowa i zacząć od nowa, pozwól mi się wylogować i zaloguj ponownie.
+
+04:39.500 --> 04:40.040
+Dobrze.
+
+04:40.040 --> 04:43.430
+Po prostu ponownie uruchomiłem moją Jenkyns.
+
+04:43.580 --> 04:50.240
+Teraz z prawej strony nad DAB po prostu szukam testu w G, a zobaczysz,
+
+04:50.780 --> 04:58.900
+że zobaczysz to w ten sposób i możesz powiedzieć, że instalujesz bez restartu, ponieważ nie chcę ponownie go uruchamiać.
+
+04:59.060 --> 05:03.080
+To zajmie trochę czasu, aby zainstalować i osiągnąć sukces.
+
+05:03.440 --> 05:13.220
+Mam więc nadzieję, że ta wtyczka jest teraz dołączona do mojego Jenkina, więc wrócę do mojego lokalnego gospodarza i pójdę do
+
+05:13.220 --> 05:14.200
+mojej pracy.
+
+05:14.450 --> 05:21.010
+A jeśli chcesz ponownie zmienić ustawienia swojej pracy w tym projekcie, możesz kliknąć na configure.
+
+05:21.800 --> 05:28.260
+Zasadniczo wszystkie konfiguracje konkretnej pracy można wykonać za pomocą tego
+
+05:28.270 --> 05:31.030
+linku do konfigurowania.
+
+05:31.070 --> 05:38.220
+Czytasz ponownie tę stronę, na której powiedziałeś, że jesteś przestrzenią roboczą projektu i komentarze Mavina.
+
+05:38.380 --> 05:47.990
+Tak więc, jeśli zejdziecie na dół, pojawi się coś w stylu Borsta, jak po wystawieniu rachunku po wykonaniu skryptów,
+
+05:47.990 --> 05:51.430
+a następnie chcecie wygenerować dobre wyniki.
+
+05:51.440 --> 05:56.630
+Dlatego ten leggin zawsze będzie częścią tych dwóch dużych działań.
+
+05:56.630 --> 06:03.260
+Teraz wybierz Otwórz to rozwijanie, a zobaczysz coś podobnego do opublikowanego właśnie w czerwcu, na przykład, jeśli
+
+06:03.380 --> 06:07.980
+Eclectus to Domer, aby ten ekstremalny plik został wstępnie wypełniony tutaj.
+
+06:08.570 --> 06:10.250
+Nie musisz wchodzić w tę grę.
+
+06:10.310 --> 06:16.800
+Widzisz, że ten zamek zawsze będzie tu obecny domyślnie, po prostu to zapamiętasz.
+
+06:17.120 --> 06:24.790
+Więc po prostu wybierz obrażenia testowe i wtyczkę z czynności po 30 pracy, którą konfigurujesz
+
+06:24.790 --> 06:27.650
+i zainstaluj w swojej Jenkyns.
+
+06:27.940 --> 06:29.440
+OK, to wszystko, co powiem.
+
+06:29.770 --> 06:33.560
+A więc zgłoś Snellville'a generatorowi, kiedy jesteś w trakcie testu.
+
+06:33.820 --> 06:34.350
+DOBRZE.
+
+06:34.570 --> 06:40.470
+Musisz też wiedzieć o tych linkach, żeby mieć pomysł.
+
+06:40.480 --> 06:45.010
+Spowoduje to ponowne skonfigurowanie ustawień zadania, które zostały pomyślnie wykonane.
+
+06:45.430 --> 06:48.760
+To rozrzedzi projekt, a to zainicjuje projekt.
+
+06:49.030 --> 06:55.280
+A jeśli chcesz sprawdzić swój projekt nazywany jest w obszarze roboczym, który jest tylko tym.
+
+06:55.770 --> 06:56.480
+DOBRZE.
+
+06:56.530 --> 07:02.400
+I to są zmiany, jak w przypadku każdej kompilacji, jeśli wprowadzisz zmiany w swoim kodzie, możesz zobaczyć
+
+07:02.400 --> 07:02.960
+zmiany.
+
+07:02.980 --> 07:06.420
+Co byś zrobił w porównaniu do poprzedniego.
+
+07:06.840 --> 07:07.370
+W porządku.
+
+07:07.390 --> 07:11.020
+Więc wrócę do mojej pracy.
+
+07:11.210 --> 07:16.110
+A teraz mamy skonfigurowane właśnie zakończone jako tylko podłączenie rzekomej akcji.
+
+07:16.310 --> 07:23.490
+Ale jeszcze jedna rzecz, o której zapomnieliśmy, to nic innego, jak tylko wylanie Dulinga z twojej Jenkyns.
+
+07:23.530 --> 07:27.270
+Tutaj zobaczysz coś takiego.
+
+07:27.280 --> 07:28.140
+Obstawiasz.
+
+07:28.220 --> 07:35.050
+Priorytet można budować i budować w sekcji Regus, jeśli zaznaczysz pole wyboru, które musisz podać.
+
+07:35.050 --> 07:37.700
+Tak powinno być w Jenkyns.
+
+07:37.710 --> 07:42.780
+Istnieje język lub możesz powiedzieć, że jest to kwestia, którą możesz to dać.
+
+07:43.080 --> 07:49.640
+Więc mam blok, który ma przyzwoite wyjaśnienie na ten temat.
+
+07:49.690 --> 07:58.530
+Więc jeśli widzisz, to Kym oczekuje kolejno pięciu parametrów, ale ometel powinien wynosić minuty.
+
+07:58.540 --> 08:07.850
+Drugi Panamint, który jest dla nas piątym blankiem tego dnia lub miesiąca w miesiącu i piątym, to wielka sprawa, czy
+
+08:07.850 --> 08:08.340
+nie.
+
+08:08.480 --> 08:09.070
+DOBRZE.
+
+08:09.280 --> 08:18.040
+Więc w zasadzie nie musisz tego wszystkiego dawać, jeśli wiesz, że chcesz, albo jestem w wieku 8 lat. m. lub 7a. m. rankiem.
+
+08:18.250 --> 08:24.350
+Tak więc na drugim miejscu wartość miejsca daje tę wartość i uniemożliwia wszystko, co możesz zacząć.
+
+08:24.620 --> 08:31.890
+OK, więc domyślnie osiąga wartości szczytowe, na przykład jeśli domyślnie podasz początek, istniała zero minut.
+
+08:32.410 --> 08:32.710
+DOBRZE.
+
+08:32.710 --> 08:35.260
+I domyślnie to atuty codziennie.
+
+08:35.320 --> 08:37.840
+Otrzymują codziennie ekspresowy start redstart.
+
+08:37.900 --> 08:41.340
+Tak więc każdego miesiąca i każdego tygodnia.
+
+08:41.590 --> 08:45.840
+OK, więc możesz być trochę zdezorientowany widząc to.
+
+08:46.020 --> 08:48.730
+Pozwól mi to cofnąć, aby wyjaśnić ci wyraźnie.
+
+08:48.920 --> 08:50.650
+Ale nie potrzebujesz tego.
+
+08:50.680 --> 08:52.090
+Słyszałem, że robi się dobrze.
+
+08:52.340 --> 08:54.330
+Więc zawsze robili to dla ciebie.
+
+08:54.570 --> 08:58.670
+Nie, mam na myśli, że jest to dzień ARF w miesiącu.
+
+08:58.670 --> 09:00.760
+Zobaczysz to tutaj w tym momencie.
+
+09:00.920 --> 09:04.300
+I myślą, że to pięć parametrów, które musisz zdobyć.
+
+09:04.580 --> 09:07.400
+Więc jeśli nie masz kurzu rano 7:00. m ..
+
+09:07.520 --> 09:14.280
+Więc najpierw je kupuj, ale oddałbym towar każdemu, ilekroć zechcesz.
+
+09:14.330 --> 09:14.620
+DOBRZE.
+
+09:14.630 --> 09:16.490
+To może być każda minuta.
+
+09:16.490 --> 09:22.800
+Kiedy zaczynasz, mówisz, że może to być każda minuta, począwszy od zera do 15 minut.
+
+09:22.910 --> 09:28.080
+Więc domyślnie odbiera minutę tylko dokładnie, kiedy weszła w to.
+
+09:28.220 --> 09:29.660
+Więc jesteś bardzo konkretny.
+
+09:29.660 --> 09:33.220
+Chcesz uruchomić za każdym razem, gdy jest 7:00. m. rano, więc weź siedem.
+
+09:33.800 --> 09:35.950
+A potem za miesiąc.
+
+09:36.230 --> 09:36.710
+DOBRZE.
+
+09:36.830 --> 09:39.760
+Więc jeśli chcesz biegać każdego dnia, zacznij od nowa.
+
+09:40.210 --> 09:40.760
+DOBRZE.
+
+09:41.060 --> 09:48.680
+Bierze się to codziennie, a który miesiąc, jeśli nie robisz ich co miesiąc, i każdego dnia
+
+09:48.860 --> 09:49.650
+tygodnia.
+
+09:49.880 --> 09:56.890
+Więc jeśli podasz to lub otrzymasz gwiazdę rozszerzenia, to wiesz, że mam wszystkie możliwe daty, ale tylko na tym,
+
+09:57.380 --> 10:01.890
+że mówimy o 7:00. m. na smyczy.
+
+10:02.090 --> 10:07.070
+To oznacza ten jeden konkretny krok.
+
+10:07.110 --> 10:11.410
+Jeśli umieścisz swoje Jenkin's, będzie ono działało codziennie rano o 7:00 rano. m ..
+
+10:11.640 --> 10:12.110
+DOBRZE.
+
+10:12.270 --> 10:16.430
+Tak więc istnieje kilka innych przykładów tutaj, możesz po prostu przejść przez to.
+
+10:16.440 --> 10:24.180
+Na przykład twój rachunek każdego dnia na ósmej o 8:00. m. rano zobaczysz tego spojrzenia na tego
+
+10:24.180 --> 10:24.780
+gościa.
+
+10:24.930 --> 10:28.490
+Chcesz uruchomić to z minutą, tak abyśmy mieli zero.
+
+10:29.620 --> 10:29.850
+DOBRZE.
+
+10:29.870 --> 10:33.750
+Teraz zobaczysz 0 do minuty o 7:00. m. rankiem.
+
+10:33.860 --> 10:37.510
+Każdego dnia każdego miesiąca i każdego dnia w tygodniu.
+
+10:37.520 --> 10:38.570
+W porządku.
+
+10:38.570 --> 10:45.870
+Więc jeśli jesteś sam na 14 minut 7:14. m. codziennie daj 7:14, więc jeśli rozmawiasz przez telefon
+
+10:45.960 --> 10:50.900
+o 3:00. m. rano 3:00 a. m. A jeśli chcesz zacząć od 3 5 a. m. wtedy jesteś.
+
+10:50.940 --> 10:55.270
+15 minut o 3:00 codziennie.
+
+10:55.500 --> 11:07.550
+Tak właśnie teraz, powiedzmy, że chcę zacząć o 30 minut o 6:00 rano, daj to, możesz podać te parametry
+
+11:07.550 --> 11:10.050
+w swojej pracy.
+
+11:10.460 --> 11:15.340
+Tak więc rano o 6:30, jeśli twoja sobota będzie następna, automatycznie uruchomi się.
+
+11:15.350 --> 11:15.950
+DOBRZE.
+
+11:16.040 --> 11:17.590
+Nie musisz tego klikać.
+
+11:17.640 --> 11:18.140
+Nie.
+
+11:18.440 --> 11:18.730
+DOBRZE.
+
+11:18.770 --> 11:24.310
+Jeśli nie wykonasz ręcznie teraz, po prostu idziemy i klikamy ten rachunek.
+
+11:24.350 --> 11:25.130
+W porządku.
+
+11:25.190 --> 11:32.930
+Ale jeśli dostaniesz białawe to Parminter rano 6:30. m. nawet jeśli nie, teraz zaczyna się egzekucja.
+
+11:32.930 --> 11:35.320
+Jeśli twój serwer jest w porządku.
+
+11:35.590 --> 11:37.210
+To zależy od ciebie.
+
+11:37.210 --> 11:43.000
+Generalnie ludzie, kiedy pracują nad małą regresją, która trwa godzinę, zanim
+
+11:43.090 --> 11:47.300
+nadejdą rano, zaczynają kata o godzinie 8.
+
+11:47.430 --> 11:51.690
+Tak więc po przybyciu do biura mogą zobaczyć wyniki.
+
+11:51.800 --> 11:55.180
+Jest to standardowy sposób robienia tego.
+
+11:55.490 --> 12:04.960
+Podobnie jak miesiące, pielęgniarki ops dzień miesiąca miesiąc w tygodniu wyślę ten link z tobą w
+
+12:04.960 --> 12:11.120
+moich dokumentach słowo, dzięki czemu można przejść i zbadać.
+
+12:11.180 --> 12:14.120
+W porządku, pozwól mi odejść i tylko na to.
+
+12:14.150 --> 12:18.200
+W każdym razie nie będziemy czekać do 6a. m. rano, aby zobaczyć wyniki.
+
+12:18.320 --> 12:21.020
+Ale mogę ci pokazać, gdzie dokładnie możemy to ująć.
+
+12:21.350 --> 12:24.300
+Cóż, dość wcześnie Kelly i piśmienne,
+
+12:34.350 --> 12:42.390
+że widziałeś OK z wyjątkiem projektu, a teraz zobaczyliśmy, że powinniśmy również uzyskać wyniki w grze siłowej.
+
+12:42.690 --> 12:44.360
+Zbudujmy ten projekt ponownie.
+
+12:45.550 --> 12:48.840
+Nie jest poranek 8:00. m. Jestem pewien, że robię to ręcznie.
+
+12:49.010 --> 12:49.840
+DOBRZE.
+
+12:50.240 --> 12:58.320
+Więc kiedy już będziesz dzwonek, zobaczysz jeden link o nazwie test testujący wyniki.
+
+12:58.390 --> 13:02.430
+Dostaniesz również wykresy mięsa, ale na fastball otrzymasz to.
+
+13:02.730 --> 13:03.000
+DOBRZE.
+
+13:03.000 --> 13:08.970
+Tak więc wykreślenie czujnika powoduje, że wyniki zachowują się dla każdej pracy, w której możesz mieć
+
+13:08.970 --> 13:10.930
+co najmniej pięć danych.
+
+13:10.950 --> 13:15.350
+Opierając się na pięciu ostatnich urodzeniach, tworzy ten wykres dla ciebie.
+
+13:15.420 --> 13:19.350
+Ale przede wszystkim nie dostaniesz tej pracy w porządku.
+
+13:19.350 --> 13:23.260
+Wygląda więc na to, że najlepsze wykonanie jest zakończone.
+
+13:24.730 --> 13:30.940
+Znowu wróćmy i wejdźmy ponownie do nich Evangel ponownie, a zobaczysz, że gdy wrócą, zobaczysz coś takiego
+
+13:30.940 --> 13:33.590
+jak ten test i uzyskasz wyniki.
+
+13:35.120 --> 13:36.030
+DOBRZE.
+
+13:36.050 --> 13:37.640
+Powiedziałbyś też: zróbmy to.
+
+13:37.740 --> 13:48.070
+Nie ma więc żadnych błędów w testowaniu wyników i mówi, że Total Sixtus kliknął na ten bardzo dobry link, ponieważ
+
+13:48.080 --> 13:52.810
+to jest rachunek w prawo, a zobaczysz tutaj.
+
+13:53.500 --> 13:55.040
+To jest kliknięcie pakietu.
+
+13:55.050 --> 13:56.320
+Akademia.
+
+13:56.580 --> 13:57.370
+DOBRZE.
+
+13:57.370 --> 14:04.550
+W związku z tym istnieją trzy pliki klas TAWAR, a każdy plik klasy ma dwa przypadki testowe.
+
+14:04.570 --> 14:05.480
+Więc widzisz, to w porządku.
+
+14:05.490 --> 14:11.770
+Myślę, że klasy to klasy, które albo robią krok w rpm i selen, więc krok zabrał 7 sekund i
+
+14:11.770 --> 14:14.450
+żadne niepowodzenia nie doprowadziły jej do dyskutowania.
+
+14:14.560 --> 14:22.220
+IBM znał jedną sekundę, aby przetestować przypadki, które są głupie, które zajęły 17 sekund na dwóch dyskach.
+
+14:22.390 --> 14:30.710
+Jeśli zejdziesz, otrzymasz szczegółową analizę lub pozytywną lub negatywną analizę dla każdego testu.
+
+14:31.000 --> 14:36.880
+Więc to są twoje sześć przypadków testowych prostych i homestrialnych, które zajęły RAM i która
+
+14:36.880 --> 14:40.170
+godzina się zaczęła, a status jego szefa zawiodł.
+
+14:40.600 --> 14:47.800
+OK, więc w ten sposób otrzymasz szczegółowy raport do tej pory, że jeśli wyniki pasują do rachunku,
+
+14:48.250 --> 14:52.160
+musisz podłączyć ten rachunek i zobaczyć wyniki tutaj.
+
+14:55.050 --> 14:55.270
+Tak.
+
+14:55.390 --> 14:57.810
+Kliknij wyniki testu i najnowsze.
+
+14:57.880 --> 15:04.760
+Brutalny blask ognia i uzyskasz wyniki tutaj, jeśli otworzysz stół i nad nim pracujesz.
+
+15:04.760 --> 15:06.730
+Więc mnie też wysiądziesz.
+
+15:06.740 --> 15:08.510
+Ale teraz jest tylko jeden rachunek.
+
+15:08.510 --> 15:20.300
+Dlatego nie masz mojej kieszeni, pozwól mi zobaczyć, czy mam w pełni perfekcyjną podwójność. Myślę, że tak naprawdę nawet
+
+15:23.860 --> 15:25.290
+nie tutaj.
+
+15:27.320 --> 15:29.050
+Tak, nie mam.
+
+15:29.270 --> 15:33.840
+Tak więc tak po prostu uruchom ten test pięć razy, a zobaczysz wyniki.
+
+15:33.870 --> 15:35.060
+OK, uciekajmy teraz.
+
+15:35.630 --> 15:41.330
+Pozwól mi szybko skręcić cztery pięć razy i mam nadzieję, że coś otrzymamy.
+
+15:41.450 --> 15:47.260
+Więc Bill, teraz przekażę film, żeby nie tracić cennego czasu.
+
+15:48.940 --> 15:49.500
+Dobrze.
+
+15:49.510 --> 15:53.910
+Po prostu starałem się odwrócić i mam tutaj ten raport z wynikami.
+
+15:54.160 --> 15:56.400
+Teraz wszystkie moje rachunki mijają.
+
+15:56.560 --> 16:00.690
+Właśnie dlatego widzisz w przeszłości sześć przypadków testowych.
+
+16:01.000 --> 16:04.490
+I to jest moja wielka walka, zarówno 6, jak i 7.
+
+16:04.720 --> 16:10.540
+Jeśli czytasz każdego dnia, jeśli będziesz biegał przez 30 dni, będziesz musiał wysiąść tak, ponieważ nic nie
+
+16:10.540 --> 16:13.390
+zawodzi widzisz, że cały makaron jest niebieski.
+
+16:13.630 --> 16:17.140
+A jeśli pojawią się jakieś awarie, zobaczysz tutaj czerwone znaki.
+
+16:17.170 --> 16:22.220
+Tak więc w takim przypadku można zobaczyć wstrzymane zakłady.
+
+16:22.240 --> 16:28.690
+Więc zasadniczo ludzie biznesu mają prawo do długiego zarządzania w tej pracy i widzą wykres wyników tutaj, jeśli wszystko jest
+
+16:29.020 --> 16:32.020
+w kolorze niebieskim i zielonym, to w porządku.
+
+16:32.050 --> 16:39.950
+Jeśli widzisz tu wiele rzeczy, oznacza to, że składasz oświadczenie, w którym wyjaśniasz, dlaczego nie wyglądają one dobrze.
+
+16:39.960 --> 16:46.840
+W ten sposób możesz opublikować swoje wyniki i dodać je za pomocą przeznaczonego do podłączenia.
+
+16:46.850 --> 16:48.550
+Czy to ma znaczenie kiedykolwiek.
+
+16:48.560 --> 16:56.780
+Oburzenie Jenkinsa i Mavina Mam nadzieję, że na następnym wykładzie masz wystarczającą wiedzę i ekspozycję.
+
+16:56.780 --> 16:59.460
+Zacznijmy od jeszcze jednego tematu.
+
+16:59.600 --> 17:07.430
+I jak powiedziałem, wstrzykniemy prawdziwy selen lub r. str. m. nasz API nazwany Na podstawie ciebie
+
+17:07.820 --> 17:10.450
+oczywiście nauki, a my zobaczymy to szczegółowo działania incomings.
+
+17:10.580 --> 17:11.070
+DOBRZE.
+
+17:11.270 --> 17:11.960
+Dziękuję Ci.

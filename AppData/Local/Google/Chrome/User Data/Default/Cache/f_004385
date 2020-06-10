@@ -1,0 +1,691 @@
+WEBVTT
+
+00:01.000 --> 00:02.200
+They come back.
+
+00:02.200 --> 00:07.140
+So now we will see how they'll publish the results of our job wrong.
+
+00:07.210 --> 00:13.810
+Now we have a project here quite amazing job and I have created one more job and live which is project.
+
+00:13.810 --> 00:15.920
+So right now we are interested in this.
+
+00:16.280 --> 00:16.880
+OK.
+
+00:17.110 --> 00:23.600
+So before I talk about this blogging let me go back to my cloves.
+
+00:23.830 --> 00:31.060
+And once you've done your project with me and just refresh your project and you'll see something like
+
+00:31.160 --> 00:34.970
+swords your target for the here.
+
+00:35.200 --> 00:41.460
+So once you open the target you'll see sure fire reports because this plugin is responsible for testing.
+
+00:41.460 --> 00:42.070
+Right.
+
+00:42.160 --> 00:45.750
+So once testing is done it will get some reports for you.
+
+00:46.330 --> 00:52.210
+So if you carefully expand these reports you can see actually Indic start.
+
+00:52.210 --> 01:01.140
+His team will have all your parts of the case or let me copied and pasted
+
+01:04.870 --> 01:11.400
+here but this result doesn't look much good but you can see the boston methods for those that are mentioned
+
+01:11.790 --> 01:14.100
+with you I posted.
+
+01:14.330 --> 01:21.740
+These are the form of taxes we have and all our past day you will see like this and at the same time
+
+01:22.460 --> 01:26.480
+you will see one file with them don't examine.
+
+01:26.600 --> 01:31.760
+So all you is those are basically generated in an accessible format.
+
+01:32.220 --> 01:41.000
+OK now that's stingy you have provided one future that if you pass this exam to your test in g it will
+
+01:41.000 --> 01:43.970
+create reports for you in the Jenkyns.
+
+01:44.370 --> 01:44.690
+OK.
+
+01:44.690 --> 01:51.620
+So the test and came up with one plugin which can be integrated with Jenkin's to generate reports.
+
+01:51.710 --> 01:54.660
+So our destiny expects to generate reports.
+
+01:54.680 --> 02:03.980
+Is this simple file that needs this in part so that it can prepare reports by reading this exemplified.
+
+02:04.240 --> 02:04.740
+OK.
+
+02:04.850 --> 02:07.170
+So let's throw a word that simple file.
+
+02:07.430 --> 02:11.500
+And also install that test and it is plug in to see what results.
+
+02:11.530 --> 02:17.410
+Engine gets pogey fast we need to install that plug in.
+
+02:17.410 --> 02:18.040
+Right.
+
+02:18.090 --> 02:29.340
+Go to my name Jenkin's and if it come down you'll see something like many plug ins OK.
+
+02:29.380 --> 02:35.100
+So these are available and these are already installed and this is again an advanced app.
+
+02:35.560 --> 02:39.610
+So here you want about that stingier right.
+
+02:40.210 --> 02:49.770
+So just go and search and test and Z and because I will see now in my mission it's already installed
+
+02:50.010 --> 02:54.390
+because I just installed few days back to work on this.
+
+02:54.420 --> 02:58.240
+So if it comes down we'll see like this.
+
+02:58.290 --> 03:01.520
+And it isn't plugging.
+
+03:01.530 --> 03:05.070
+OK so this is the plugin you need to download.
+
+03:05.590 --> 03:11.170
+So right now for me it isn't in the startup bar.
+
+03:11.500 --> 03:15.790
+By the time you walk you will not have that by default right.
+
+03:15.820 --> 03:24.550
+So if you'll just say test in G and if you click on here you will pre-populated select this and you
+
+03:24.550 --> 03:32.580
+can say download and restart Jenkyns so that plugin will be available for you after you start your Jenkins.
+
+03:32.980 --> 03:35.300
+I don't think I can see anything now.
+
+03:36.720 --> 03:44.050
+So maybe I will uninstall it and show you how that works right.
+
+03:44.220 --> 03:45.050
+Let's do that.
+
+03:47.030 --> 03:50.220
+Unstinted is a plug in and install
+
+03:52.990 --> 03:53.910
+of.
+
+03:54.440 --> 04:01.330
+So I successfully installed now and let me go back to it I believe plug in
+
+04:08.300 --> 04:11.640
+K..
+
+04:11.730 --> 04:14.180
+This is the unit right.
+
+04:15.270 --> 04:20.130
+You can use G-Unit plugin that also gives the results in a similar fashion.
+
+04:20.210 --> 04:27.670
+So it also extends the same simplified what you are looking for but we are now interested in dust and
+
+04:32.510 --> 04:39.450
+I need to start off and start again let me log out and log a lot back in.
+
+04:39.500 --> 04:40.040
+Right.
+
+04:40.040 --> 04:43.430
+So I just restarted my Jenkyns again.
+
+04:43.580 --> 04:50.240
+Now that from right over DAB I'll just look for a test in G and you'll see that you will see like this
+
+04:50.780 --> 04:58.900
+like this and you can say install without restart because I don't want to restart it again.
+
+04:59.060 --> 05:03.080
+So this will take some time to install for you and its success.
+
+05:03.440 --> 05:13.220
+So I hope this plugin is now attached to my Jenkin's so I'll go back to my local host and I'll go to
+
+05:13.220 --> 05:14.200
+my job.
+
+05:14.450 --> 05:21.010
+And if you want to change the settings off your job again in that project you can click on configure.
+
+05:21.800 --> 05:28.260
+So basically all the configurations of your specific job you can do with the help of this configure
+
+05:28.270 --> 05:31.030
+link right.
+
+05:31.070 --> 05:38.220
+So you'll read again this page where you have said you are project workspace and Mavin comments.
+
+05:38.380 --> 05:47.990
+So here if you come down there is something like Borst bold action like after bill after the execution
+
+05:47.990 --> 05:51.430
+of your scripts then you want to generate results right.
+
+05:51.440 --> 05:56.630
+So that's why this leggin will always be part of those two big actions.
+
+05:56.630 --> 06:03.260
+Now select Open this dropdown and you will see something like published just in June for instance if
+
+06:03.380 --> 06:07.980
+Eclectus are Domer to get that extremal file will be pre-populated here.
+
+06:08.570 --> 06:10.250
+You need not enter that game.
+
+06:10.310 --> 06:16.800
+You see that this one the lock will always be present here by default you just save that.
+
+06:17.120 --> 06:24.790
+So what are you going to do is just select test injuries and plugin from post-work action of 30 you
+
+06:24.790 --> 06:27.650
+configure and install it in your Jenkyns.
+
+06:27.940 --> 06:29.440
+OK that's all I'll say.
+
+06:29.770 --> 06:33.560
+So report Snellville the generator when you are under test.
+
+06:33.820 --> 06:34.350
+OK.
+
+06:34.570 --> 06:40.470
+And also you'll have to know about these links just to have an idea.
+
+06:40.480 --> 06:45.010
+This will again help you to configure to have job setting which you have successfully done.
+
+06:45.430 --> 06:48.760
+And this will dilute the project and this will trigger the project.
+
+06:49.030 --> 06:55.280
+And if you want to check your project called it's in workspace which is nothing but this one.
+
+06:55.770 --> 06:56.480
+OK.
+
+06:56.530 --> 07:02.400
+And these are the changes like for every build if you make some changes in your code you can see the
+
+07:02.400 --> 07:02.960
+changes.
+
+07:02.980 --> 07:06.420
+What all you'd have done compared to previous.
+
+07:06.840 --> 07:07.370
+All right.
+
+07:07.390 --> 07:11.020
+So this I'll go back to my job again.
+
+07:11.210 --> 07:16.110
+And now we have configured just ended as just plugging the supposed action.
+
+07:16.310 --> 07:23.490
+But one more thing we forgot which is nothing but shed Duling your Jenkyns right.
+
+07:23.530 --> 07:27.270
+So here you will see something like this.
+
+07:27.280 --> 07:28.140
+You bet.
+
+07:28.220 --> 07:35.050
+Priority can be build and build Regus section if you select the tick box you need to give.
+
+07:35.050 --> 07:37.700
+This should be a so in Jenkyns.
+
+07:37.710 --> 07:42.780
+There is a language or you can say there is a matter to give this should you.
+
+07:43.080 --> 07:49.640
+So I have a block which have decent explanation about this.
+
+07:49.690 --> 07:58.530
+So if you see here then Kym's expect five parameters sequentially first but ometer should be minutes.
+
+07:58.540 --> 08:07.850
+Second Panamint that is us thart battlement this vits day or month for month and fifth is a big deal
+
+08:07.850 --> 08:08.340
+or not.
+
+08:08.480 --> 08:09.070
+OK.
+
+08:09.280 --> 08:17.260
+So basically you need not give all this if you know that you want or I'm at 8 a.m. or 7 a.m. in the
+
+08:17.260 --> 08:18.040
+morning.
+
+08:18.250 --> 08:24.350
+So in the second place place value give that value and preventing all you can start.
+
+08:24.620 --> 08:31.890
+OK so by default it peaks like for example if you give the start by default it existed zero minute.
+
+08:32.410 --> 08:32.710
+OK.
+
+08:32.710 --> 08:35.260
+And by default it trumps daily basis.
+
+08:35.320 --> 08:37.840
+They get expression redstart run daily.
+
+08:37.900 --> 08:41.340
+So in every month and every week.
+
+08:41.590 --> 08:45.840
+OK so you might be a little confused by seeing this.
+
+08:46.020 --> 08:48.730
+Let me take it back to explain you clearly.
+
+08:48.920 --> 08:50.650
+But you don't need this.
+
+08:50.680 --> 08:52.090
+I've heard that she's doing OK.
+
+08:52.340 --> 08:54.330
+So there were always guys will do it for you.
+
+08:54.570 --> 08:58.670
+No I mean that's ARFs day of the month.
+
+08:58.670 --> 09:00.760
+You'll see it here at this point.
+
+09:00.920 --> 09:04.300
+And they think these are the five parameters you need to get.
+
+09:04.580 --> 09:07.400
+So if you don't you are dust in the morning 7:00 a.m..
+
+09:07.520 --> 09:14.280
+So first buy them but I would give the stock to anybody ever the one minute you want to them.
+
+09:14.330 --> 09:14.620
+OK.
+
+09:14.630 --> 09:16.490
+It could be any minute.
+
+09:16.490 --> 09:22.800
+So when you get start you are saying that it could be any minute starting from zero to 15 minute.
+
+09:22.910 --> 09:28.080
+So by default it picks up the minute only exactly when it entered into that.
+
+09:28.220 --> 09:29.660
+So here you are very specific.
+
+09:29.660 --> 09:33.220
+You want to run every time it's 7:00 a.m. in the morning so get seven.
+
+09:33.800 --> 09:35.950
+And then in a month.
+
+09:36.230 --> 09:36.710
+OK.
+
+09:36.830 --> 09:39.760
+So you if you want run every day give it start again.
+
+09:40.210 --> 09:40.760
+OK.
+
+09:41.060 --> 09:48.680
+It runs on daily basis and which month if you don't do them every month you stop and which day of week
+
+09:48.860 --> 09:49.650
+every day.
+
+09:49.880 --> 09:56.890
+So if you give this this or get extension star says you know I'm on all the possible dates available
+
+09:57.380 --> 10:01.890
+but only on are we are saying that at 7:00 a.m. on lead.
+
+10:02.090 --> 10:07.070
+So that means this one this particular step.
+
+10:07.110 --> 10:11.410
+If you put in your Jenkin's it will run daily in the morning 7:00 a.m..
+
+10:11.640 --> 10:12.110
+OK.
+
+10:12.270 --> 10:16.430
+So like that there are few more examples given here you can just go through it.
+
+10:16.440 --> 10:24.180
+So for example your bill every day on it eight at 8:00 a.m. in the morning you'll see that look at this
+
+10:24.180 --> 10:24.780
+guy.
+
+10:24.930 --> 10:28.490
+Want to run this at the zero at the minute so that we have ground zero.
+
+10:29.620 --> 10:29.850
+OK.
+
+10:29.870 --> 10:33.750
+So now you'll see 0 up to a minute at 7:00 a.m. in the morning.
+
+10:33.860 --> 10:37.510
+Every day every month and every day in a week.
+
+10:37.520 --> 10:38.570
+All right.
+
+10:38.570 --> 10:45.870
+So if you're on your own at 14 minutes 7:14 a.m. daily give 7:14 so are if you on the phone at 3:00
+
+10:45.960 --> 10:50.900
+a.m. in the morning 3:00 a.m. And if you want to start at 3 5 a.m. then you're.
+
+10:50.940 --> 10:55.270
+15 minute at 3:00 on a daily basis.
+
+10:55.500 --> 11:07.550
+This is how right now let's say that I want to start at 30 minute at 6:00 in the morning give this you
+
+11:07.550 --> 11:10.050
+can give this parameters in your job.
+
+11:10.460 --> 11:15.340
+So that morning 6:30 if your Saturday is up next will automatically trigger.
+
+11:15.350 --> 11:15.950
+OK.
+
+11:16.040 --> 11:17.590
+You need not click on this.
+
+11:17.640 --> 11:18.140
+No.
+
+11:18.440 --> 11:18.730
+OK.
+
+11:18.770 --> 11:24.310
+If you don't manually execute right now we are just going and clicking on this bill.
+
+11:24.350 --> 11:25.130
+All right.
+
+11:25.190 --> 11:32.930
+But if you get pro-white this Parminter morning 6:30 a.m. even if you don't it now your execution starts.
+
+11:32.930 --> 11:35.320
+If your server is up OK.
+
+11:35.590 --> 11:37.210
+So it's up to you.
+
+11:37.210 --> 11:43.000
+Generally people when they're working on small regression which takes one hour by the time they come
+
+11:43.090 --> 11:47.300
+in the main in the morning they would start executioner at 8 o'clock.
+
+11:47.430 --> 11:51.690
+So once they come into office they can see the results.
+
+11:51.800 --> 11:55.180
+So this is a standard way of doing that.
+
+11:55.490 --> 12:04.960
+Like months the nurse ops day month month in the week I'll send this link with you in my word documents
+
+12:04.960 --> 12:11.120
+so that you can go and explore the.
+
+12:11.180 --> 12:14.120
+All right so let me go and just for that.
+
+12:14.150 --> 12:18.200
+Anyhow we are not going to wait till 6 a.m. in the morning to see the results.
+
+12:18.320 --> 12:21.020
+But I can just show you where exactly we can put it.
+
+12:21.350 --> 12:24.300
+Well pretty early Kelly and pre-literate you saw the
+
+12:34.350 --> 12:42.390
+OK save the project and now so we saw that we also should yield results in forcible actionably.
+
+12:42.690 --> 12:44.360
+Let's build that project again.
+
+12:45.550 --> 12:48.840
+I it is not morning 8:00 a.m. I'm sure doing it manually.
+
+12:49.010 --> 12:49.840
+OK.
+
+12:50.240 --> 12:58.320
+So once you're on the bell now you'll see one link here called test testing the results.
+
+12:58.390 --> 13:02.430
+You will also get some meat graphs but for the fastball you will get this.
+
+13:02.730 --> 13:03.000
+OK.
+
+13:03.000 --> 13:08.970
+So graphing the sensor results things like how the results are behaving for every job you could have
+
+13:08.970 --> 13:10.930
+at least five data.
+
+13:10.950 --> 13:15.350
+So based upon five recent births it creates that graph for you.
+
+13:15.420 --> 13:19.350
+But first of all you don't get this job OK.
+
+13:19.350 --> 13:23.260
+So it seems that best execution is complete.
+
+13:24.730 --> 13:30.940
+Again let's go back and go inside them Evangel again and you'll see that once they came back you'll
+
+13:30.940 --> 13:33.590
+see something like this test and get results.
+
+13:35.120 --> 13:36.030
+OK.
+
+13:36.050 --> 13:37.640
+And you would also say Let do this.
+
+13:37.740 --> 13:48.070
+So does not have any failures on testing your results and it says total Sixtus click on this very fine
+
+13:48.080 --> 13:52.810
+link because that's the bill right and you'll see here.
+
+13:53.500 --> 13:55.040
+This is your package click.
+
+13:55.050 --> 13:56.320
+Academy.
+
+13:56.580 --> 13:57.370
+OK.
+
+13:57.370 --> 14:04.550
+So in that there are three TAWAR class files and each class file have two test cases.
+
+14:04.570 --> 14:05.480
+So you see that's fine.
+
+14:05.490 --> 14:11.770
+I think classes these are classes that either step in rpm and selenium so step they took 7 seconds and
+
+14:11.770 --> 14:14.450
+no failures brought her to discuses.
+
+14:14.560 --> 14:22.220
+IBM knew one second to test cases that are silly that took 17 seconds with two disks.
+
+14:22.390 --> 14:30.710
+So if you come down you will have the detailed test or pass or fail analysis for each and every test.
+
+14:31.000 --> 14:36.880
+So these are your six test cases straight and homestyle and took the RAM and what time it started and
+
+14:36.880 --> 14:40.170
+the status of it boss all failed.
+
+14:40.600 --> 14:47.800
+OK so in this way you will get a detailed report so far that if the results belongs to fit the bill
+
+14:48.250 --> 14:52.160
+then you have to plug this bill and see the results here.
+
+14:55.050 --> 14:55.270
+Yeah.
+
+14:55.390 --> 14:57.810
+So click on test results and latest.
+
+14:57.880 --> 15:04.760
+A brutal firelight and you will get the results here if you open the table and work on it.
+
+15:04.760 --> 15:06.730
+So you will also get me get off here.
+
+15:06.740 --> 15:08.510
+But right now there is only one bill.
+
+15:08.510 --> 15:20.300
+So that's why you don't have my pocket let me see if I have in my all perfect double I think I don't
+
+15:23.860 --> 15:25.290
+really even here.
+
+15:27.320 --> 15:29.050
+Yes I don't have.
+
+15:29.270 --> 15:33.840
+So anyway so just run this test for five times and you will see the results.
+
+15:33.870 --> 15:35.060
+OK let's run now.
+
+15:35.630 --> 15:41.330
+Let me turn quickly four five times and I hope that we will get something.
+
+15:41.450 --> 15:47.260
+So Bill now I'll pass the video so that I don't want to waste your valuable time.
+
+15:48.940 --> 15:49.500
+Right.
+
+15:49.510 --> 15:53.910
+I just tried to reverse and I have that report of results trend here.
+
+15:54.160 --> 15:56.400
+So right now all my bills are passed.
+
+15:56.560 --> 16:00.690
+That's why you see for past you are seeing sort of six test cases.
+
+16:01.000 --> 16:04.490
+And this is my big fight both 6 and 7.
+
+16:04.720 --> 16:10.540
+If you read each and every day if you run for 30 days you will have got off like this as nothing is
+
+16:10.540 --> 16:13.390
+failing you see that all the pasta with the blue.
+
+16:13.630 --> 16:17.140
+And if there are any failures you will see red marks indicating here.
+
+16:17.170 --> 16:22.220
+So in that case that way you can see held off your bets.
+
+16:22.240 --> 16:28.690
+So basically business people are claim to manage long in this job and they see the results graph here
+
+16:29.020 --> 16:32.020
+if everything is blue and green that's fine.
+
+16:32.050 --> 16:38.470
+So if you see a lot of things here so that means you make a declaration saying why they are not looking
+
+16:39.620 --> 16:39.950
+OK.
+
+16:39.960 --> 16:46.840
+So that's how you can publish your results and add with the help of destined to plug in.
+
+16:46.850 --> 16:48.550
+So does that matter ever.
+
+16:48.560 --> 16:56.390
+Jenkins and Mavin indignation I hope you guys got enough knowledge and exposure on this in the next
+
+16:56.390 --> 16:56.780
+lecture.
+
+16:56.780 --> 16:59.460
+Let's start with one more topic.
+
+16:59.600 --> 17:07.430
+And as I said we will inject real selenium or r.p.m. our API called Based upon you of course learning
+
+17:07.820 --> 17:10.450
+and we will see that in detail incomings actions.
+
+17:10.580 --> 17:11.070
+OK.
+
+17:11.270 --> 17:11.960
+Thank you.

@@ -1,0 +1,682 @@
+WEBVTT
+
+00:01.000 --> 00:02.200
+Mereka datang kembali.
+
+00:02.200 --> 00:07.140
+Jadi sekarang kita akan melihat bagaimana mereka salah mempublikasikan hasil pekerjaan kita.
+
+00:07.210 --> 00:13.810
+Sekarang kami memiliki proyek di sini pekerjaan yang sangat menakjubkan dan saya telah menciptakan satu pekerjaan lagi dan tinggal yang proyek.
+
+00:13.810 --> 00:15.920
+Jadi saat ini kami tertarik pada ini.
+
+00:16.280 --> 00:16.880
+BAIK.
+
+00:17.110 --> 00:23.600
+Jadi sebelum saya berbicara tentang blog ini, izinkan saya kembali ke cengkih saya.
+
+00:23.830 --> 00:31.060
+Dan setelah Anda menyelesaikan proyek Anda dengan saya dan menyegarkan kembali proyek Anda dan Anda akan melihat
+
+00:31.160 --> 00:34.970
+sesuatu seperti pedang target Anda untuk di sini.
+
+00:35.200 --> 00:41.460
+Jadi, begitu Anda membuka target, Anda akan melihat laporan kebakaran pasti karena plugin ini bertanggung jawab untuk pengujian.
+
+00:41.460 --> 00:42.070
+Kanan.
+
+00:42.160 --> 00:45.750
+Jadi, sekali pengujian dilakukan, akan mendapatkan beberapa laporan untuk Anda.
+
+00:46.330 --> 00:52.210
+Jadi, jika Anda hati-hati memperluas laporan ini, Anda dapat melihat sebenarnya Indikator mulai.
+
+00:52.210 --> 01:01.140
+Timnya akan memiliki semua bagian Anda dari kasus ini atau biarkan saya menyalin dan menempel di sini, tetapi hasil
+
+01:04.870 --> 01:11.400
+ini tidak terlihat baik tetapi Anda dapat melihat metode boston untuk orang-orang yang disebutkan
+
+01:11.790 --> 01:14.100
+dengan Anda saya diposting.
+
+01:14.330 --> 01:21.740
+Ini adalah bentuk pajak yang kami miliki dan sepanjang hari kami, Anda akan melihat seperti ini dan pada saat yang
+
+01:22.460 --> 01:26.480
+sama Anda akan melihat satu file dengan mereka tidak memeriksa.
+
+01:26.600 --> 01:31.760
+Jadi semua yang Anda miliki pada dasarnya dihasilkan dalam format yang dapat diakses.
+
+01:32.220 --> 01:41.000
+OK sekarang itu pelit Anda telah memberikan satu masa depan bahwa jika Anda lulus ujian ini untuk ujian Anda di g itu
+
+01:41.000 --> 01:43.970
+akan membuat laporan untuk Anda di Jenkyns.
+
+01:44.370 --> 01:44.690
+BAIK.
+
+01:44.690 --> 01:51.620
+Jadi tes dan datang dengan satu plugin yang dapat diintegrasikan dengan Jenkin untuk menghasilkan laporan.
+
+01:51.710 --> 01:54.660
+Jadi takdir kita mengharapkan untuk menghasilkan laporan.
+
+01:54.680 --> 02:03.980
+Apakah file sederhana ini yang memerlukan ini sebagian sehingga dapat menyiapkan laporan dengan membaca contoh ini.
+
+02:04.240 --> 02:04.740
+BAIK.
+
+02:04.850 --> 02:07.170
+Jadi mari kita lemparkan kata file yang sederhana itu.
+
+02:07.430 --> 02:11.500
+Dan juga instal tes itu dan plug in untuk melihat hasil apa.
+
+02:11.530 --> 02:17.410
+Engine mendapatkan pogey dengan cepat, kita perlu menginstal plug-in itu.
+
+02:17.410 --> 02:18.040
+Kanan.
+
+02:18.090 --> 02:29.340
+Pergi ke nama saya Jenkin dan jika itu turun Anda akan melihat sesuatu seperti banyak plug in OK.
+
+02:29.380 --> 02:35.100
+Jadi ini tersedia dan ini sudah diinstal dan ini lagi merupakan aplikasi canggih.
+
+02:35.560 --> 02:39.610
+Jadi di sini Anda ingin tentang itu lebih keras.
+
+02:40.210 --> 02:49.770
+Jadi pergilah dan cari dan uji dan Z dan karena saya akan melihat sekarang dalam misi saya itu sudah diinstal karena saya
+
+02:50.010 --> 02:54.390
+baru saja menginstal beberapa hari kembali untuk mengerjakan ini.
+
+02:54.420 --> 02:58.240
+Jadi jika turun kita akan melihat seperti ini.
+
+02:58.290 --> 03:01.520
+Dan itu tidak mencolokkan.
+
+03:01.530 --> 03:05.070
+OK jadi ini adalah plugin yang perlu Anda unduh.
+
+03:05.590 --> 03:11.170
+Jadi sekarang bagi saya itu tidak ada di bilah startup.
+
+03:11.500 --> 03:15.790
+Pada saat Anda berjalan, Anda tidak akan memilikinya secara default.
+
+03:15.820 --> 03:24.550
+Jadi jika Anda hanya akan mengatakan tes dalam G dan jika Anda mengklik di sini Anda akan pra-diisi pilih ini dan
+
+03:24.550 --> 03:32.580
+Anda dapat mengatakan unduh dan restart Jenkyns sehingga plugin akan tersedia untuk Anda setelah Anda memulai Jenkins Anda.
+
+03:32.980 --> 03:35.300
+Saya tidak berpikir saya bisa melihat apa pun sekarang.
+
+03:36.720 --> 03:44.050
+Jadi mungkin saya akan mencopotnya dan menunjukkan kepada Anda bagaimana cara kerjanya.
+
+03:44.220 --> 03:45.050
+Ayo lakukan itu.
+
+03:47.030 --> 03:50.220
+Unstinted adalah plug in dan instal
+
+03:52.990 --> 03:53.910
+dari.
+
+03:54.440 --> 04:01.330
+Jadi saya berhasil menginstal sekarang dan biarkan saya kembali ke sana saya
+
+04:08.300 --> 04:11.640
+percaya plug in K ..
+
+04:11.730 --> 04:14.180
+Ini adalah unit yang tepat.
+
+04:15.270 --> 04:20.130
+Anda dapat menggunakan plugin G-Unit yang juga memberikan hasil dengan cara yang serupa.
+
+04:20.210 --> 04:27.670
+Jadi itu juga memperluas yang disederhanakan apa yang Anda cari, tetapi kami sekarang tertarik pada debu
+
+04:32.510 --> 04:39.450
+dan saya harus memulai dan memulai lagi, izinkan saya logout dan login kembali.
+
+04:39.500 --> 04:40.040
+Kanan.
+
+04:40.040 --> 04:43.430
+Jadi saya baru saja memulai Jenkyn saya lagi.
+
+04:43.580 --> 04:50.240
+Sekarang dari kanan atas DAB saya hanya akan mencari tes di G dan Anda akan melihat
+
+04:50.780 --> 04:58.900
+bahwa Anda akan melihat seperti ini seperti ini dan Anda dapat mengatakan instal tanpa restart karena saya tidak ingin me-restart lagi.
+
+04:59.060 --> 05:03.080
+Jadi ini akan memakan waktu untuk menginstal untuk Anda dan keberhasilannya.
+
+05:03.440 --> 05:13.220
+Jadi saya berharap plugin ini sekarang melekat pada Jenkin saya jadi saya akan kembali ke host lokal saya dan saya akan pergi ke
+
+05:13.220 --> 05:14.200
+pekerjaan saya.
+
+05:14.450 --> 05:21.010
+Dan jika Anda ingin mengubah pengaturan dari pekerjaan Anda lagi di proyek itu, Anda dapat mengklik configure.
+
+05:21.800 --> 05:28.260
+Jadi pada dasarnya semua konfigurasi pekerjaan khusus Anda dapat Anda lakukan dengan
+
+05:28.270 --> 05:31.030
+bantuan tautan konfigurasi ini, benar.
+
+05:31.070 --> 05:38.220
+Jadi, Anda akan membaca lagi halaman ini di mana Anda telah mengatakan Anda adalah ruang kerja proyek dan komentar Mavin.
+
+05:38.380 --> 05:47.990
+Jadi di sini jika Anda datang ke sana ada sesuatu seperti tindakan berani Borst seperti setelah tagihan setelah eksekusi skrip Anda,
+
+05:47.990 --> 05:51.430
+maka Anda ingin menghasilkan hasil yang benar.
+
+05:51.440 --> 05:56.630
+Jadi itu sebabnya leggin ini akan selalu menjadi bagian dari dua aksi besar itu.
+
+05:56.630 --> 06:03.260
+Sekarang pilih Buka dropdown ini dan Anda akan melihat sesuatu seperti diterbitkan hanya pada bulan Juni misalnya jika Eclectus
+
+06:03.380 --> 06:07.980
+adalah Domer untuk mendapatkan file ekstrem yang akan diisi sebelumnya di sini.
+
+06:08.570 --> 06:10.250
+Anda tidak perlu masuk ke game itu.
+
+06:10.310 --> 06:16.800
+Anda melihat bahwa kunci ini akan selalu hadir di sini secara default Anda hanya menyimpannya.
+
+06:17.120 --> 06:24.790
+Jadi yang akan Anda lakukan hanyalah memilih tes cedera dan plugin dari tindakan pasca-kerja 30 Anda mengkonfigurasi
+
+06:24.790 --> 06:27.650
+dan menginstalnya di Jenkyns Anda.
+
+06:27.940 --> 06:29.440
+OK itu saja yang akan saya katakan.
+
+06:29.770 --> 06:33.560
+Jadi laporkan Snellville generatornya saat Anda sedang diuji.
+
+06:33.820 --> 06:34.350
+BAIK.
+
+06:34.570 --> 06:40.470
+Dan Anda juga harus tahu tentang tautan ini hanya untuk memiliki ide.
+
+06:40.480 --> 06:45.010
+Ini lagi akan membantu Anda mengonfigurasi untuk memiliki pengaturan pekerjaan yang telah berhasil Anda lakukan.
+
+06:45.430 --> 06:48.760
+Dan ini akan mencairkan proyek dan ini akan memicu proyek.
+
+06:49.030 --> 06:55.280
+Dan jika Anda ingin memeriksa proyek Anda disebut itu di ruang kerja yang tidak lain adalah yang ini.
+
+06:55.770 --> 06:56.480
+BAIK.
+
+06:56.530 --> 07:02.400
+Dan ini adalah perubahan seperti untuk setiap build jika Anda membuat beberapa perubahan dalam kode Anda, Anda bisa melihat
+
+07:02.400 --> 07:02.960
+perubahannya.
+
+07:02.980 --> 07:06.420
+Apa yang telah Anda lakukan dibandingkan dengan sebelumnya.
+
+07:06.840 --> 07:07.370
+Baiklah.
+
+07:07.390 --> 07:11.020
+Jadi ini saya akan kembali ke pekerjaan saya lagi.
+
+07:11.210 --> 07:16.110
+Dan sekarang kita telah mengkonfigurasi berakhir hanya dengan menghubungkan tindakan yang seharusnya.
+
+07:16.310 --> 07:23.490
+Tapi satu hal lagi yang kami lupakan, yaitu menumpahkan Duling Jenkyn Anda dengan benar.
+
+07:23.530 --> 07:27.270
+Jadi di sini Anda akan melihat sesuatu seperti ini.
+
+07:27.280 --> 07:28.140
+Anda bertaruh.
+
+07:28.220 --> 07:35.050
+Prioritas dapat dibangun dan dibangun bagian Regus jika Anda memilih kotak centang yang perlu Anda berikan.
+
+07:35.050 --> 07:37.700
+Ini seharusnya begitu di Jenkyns.
+
+07:37.710 --> 07:42.780
+Ada bahasa atau Anda bisa mengatakan ada masalah untuk memberikan ini jika Anda.
+
+07:43.080 --> 07:49.640
+Jadi saya punya blok yang memiliki penjelasan yang layak tentang ini.
+
+07:49.690 --> 07:58.530
+Jadi jika Anda melihat di sini maka Kym's berharap lima parameter secara berurutan pertama tetapi ometer harus menjadi menit.
+
+07:58.540 --> 08:08.340
+Panamint kedua yaitu kita mulai perang hari ini atau bulan selama sebulan dan kelima adalah masalah besar atau tidak.
+
+08:08.480 --> 08:09.070
+BAIK.
+
+08:09.280 --> 08:18.040
+Jadi pada dasarnya Anda tidak perlu memberikan semua ini jika Anda tahu bahwa Anda inginkan atau saya berusia 8 a. m. atau 7 a. m. di pagi hari.
+
+08:18.250 --> 08:24.350
+Jadi di tempat kedua nilai nilai memberi nilai itu dan mencegah semua yang Anda bisa mulai.
+
+08:24.620 --> 08:31.890
+OK jadi secara default itu seperti puncak misalnya jika Anda memberikan awal secara default itu ada nol menit.
+
+08:32.410 --> 08:32.710
+BAIK.
+
+08:32.710 --> 08:35.260
+Dan secara default mengalahkan basis harian.
+
+08:35.320 --> 08:37.840
+Mereka mendapatkan ekspresi redstart dijalankan setiap hari.
+
+08:37.900 --> 08:41.340
+Jadi setiap bulan dan setiap minggu.
+
+08:41.590 --> 08:45.840
+OK jadi Anda mungkin sedikit bingung dengan melihat ini.
+
+08:46.020 --> 08:48.730
+Biarkan saya mengambilnya kembali untuk menjelaskan Anda dengan jelas.
+
+08:48.920 --> 08:50.650
+Tetapi Anda tidak membutuhkan ini.
+
+08:50.680 --> 08:52.090
+Saya pernah mendengar bahwa dia baik-baik saja.
+
+08:52.340 --> 08:54.330
+Jadi selalu ada orang yang akan melakukannya untuk Anda.
+
+08:54.570 --> 08:58.670
+Tidak, maksud saya itu hari ARF di bulan itu.
+
+08:58.670 --> 09:00.760
+Anda akan melihatnya di sini pada saat ini.
+
+09:00.920 --> 09:04.300
+Dan mereka pikir ini adalah lima parameter yang perlu Anda dapatkan.
+
+09:04.580 --> 09:07.400
+Jadi, jika tidak, Anda debu di pagi hari jam 7:00 a. saya ..
+
+09:07.520 --> 09:14.280
+Jadi, pertama beli mereka, tetapi saya akan memberikan stok kepada siapa pun pada menit yang Anda inginkan.
+
+09:14.330 --> 09:14.620
+BAIK.
+
+09:14.630 --> 09:16.490
+Bisa kapan saja.
+
+09:16.490 --> 09:22.800
+Jadi, ketika Anda memulai, Anda mengatakan bahwa itu bisa berupa menit mulai dari nol hingga 15 menit.
+
+09:22.910 --> 09:28.080
+Jadi secara default ia mengambil menit hanya saat itu dimasukkan ke dalamnya.
+
+09:28.220 --> 09:29.660
+Jadi di sini Anda sangat spesifik.
+
+09:29.660 --> 09:33.220
+Anda ingin menjalankan setiap kali itu 7:00 a. m. di pagi hari jadi jam tujuh.
+
+09:33.800 --> 09:35.950
+Dan kemudian dalam sebulan.
+
+09:36.230 --> 09:36.710
+BAIK.
+
+09:36.830 --> 09:39.760
+Jadi, jika Anda ingin berlari setiap hari, mulai lagi.
+
+09:40.210 --> 09:40.760
+BAIK.
+
+09:41.060 --> 09:48.680
+Ini berjalan setiap hari dan bulan mana jika Anda tidak melakukannya setiap bulan Anda berhenti dan hari dalam seminggu setiap
+
+09:48.860 --> 09:49.650
+hari.
+
+09:49.880 --> 09:56.890
+Jadi jika Anda memberikan ini atau mendapatkan bintang ekstensi mengatakan Anda tahu saya pada semua tanggal yang mungkin tersedia tetapi hanya pada kita mengatakan
+
+09:57.380 --> 10:01.890
+bahwa pada 7:00 a. m. memimpin.
+
+10:02.090 --> 10:07.070
+Jadi ini berarti ini langkah khusus ini.
+
+10:07.110 --> 10:11.410
+Jika Anda memasukkan Jenkin Anda, itu akan berjalan setiap hari di pagi hari 7:00 saya ..
+
+10:11.640 --> 10:12.110
+BAIK.
+
+10:12.270 --> 10:16.430
+Jadi seperti itu ada beberapa contoh lagi yang diberikan di sini Anda bisa langsung melewatinya.
+
+10:16.440 --> 10:24.180
+Jadi misalnya tagihan Anda setiap hari di atasnya delapan jam 8:00 a. m. di pagi hari Anda akan melihat bahwa melihat orang
+
+10:24.180 --> 10:24.780
+ini.
+
+10:24.930 --> 10:28.490
+Ingin menjalankan ini pada nol pada menit sehingga kita memiliki ground nol.
+
+10:29.620 --> 10:29.850
+BAIK.
+
+10:29.870 --> 10:33.750
+Jadi sekarang Anda akan melihat 0 hingga satu menit pada 7:00 a. m. di pagi hari.
+
+10:33.860 --> 10:37.510
+Setiap hari setiap bulan dan setiap hari dalam seminggu.
+
+10:37.520 --> 10:38.570
+Baiklah.
+
+10:38.570 --> 10:45.870
+Jadi, jika Anda sendirian di 14 menit 7:14 a. m. setiap hari berikan 7:14 begitu juga jika Anda menelepon pada
+
+10:45.960 --> 10:50.900
+jam 3:00 m. di pagi hari jam 3:00 a. m. Dan jika Anda ingin memulai pada 3 5 a. m. maka kamu.
+
+10:50.940 --> 10:55.270
+15 menit pukul 3:00 setiap hari.
+
+10:55.500 --> 11:07.550
+Begini caranya sekarang katakanlah saya ingin memulai pada 30 menit pukul 6:00 pagi memberi ini Anda dapat memberikan parameter ini
+
+11:07.550 --> 11:10.050
+dalam pekerjaan Anda.
+
+11:10.460 --> 11:15.340
+Jadi pagi itu pukul 6:30 jika hari Sabtu Anda berikutnya akan otomatis memicu.
+
+11:15.350 --> 11:15.950
+BAIK.
+
+11:16.040 --> 11:17.590
+Anda tidak perlu mengklik ini.
+
+11:17.640 --> 11:18.140
+Tidak.
+
+11:18.440 --> 11:18.730
+BAIK.
+
+11:18.770 --> 11:24.310
+Jika Anda tidak mengeksekusi secara manual sekarang, kami hanya pergi dan mengklik tagihan ini.
+
+11:24.350 --> 11:25.130
+Baiklah.
+
+11:25.190 --> 11:32.930
+Tetapi jika Anda mendapatkan pro-putih Parminter pagi ini 6:30 a. m. bahkan jika Anda tidak melakukannya sekarang eksekusi Anda dimulai.
+
+11:32.930 --> 11:35.320
+Jika server Anda aktif OK.
+
+11:35.590 --> 11:37.210
+Jadi terserah kamu.
+
+11:37.210 --> 11:43.000
+Umumnya orang ketika mereka sedang mengerjakan regresi kecil yang memakan waktu satu jam pada saat mereka tiba
+
+11:43.090 --> 11:47.300
+di utama di pagi hari mereka akan mulai algojo pukul 8.
+
+11:47.430 --> 11:51.690
+Jadi begitu mereka datang ke kantor mereka dapat melihat hasilnya.
+
+11:51.800 --> 11:55.180
+Jadi ini adalah cara standar untuk melakukan itu.
+
+11:55.490 --> 12:04.960
+Seperti berbulan-bulan perawat ops hari bulan bulan dalam minggu saya akan mengirimkan tautan ini dengan Anda
+
+12:04.960 --> 12:11.120
+dalam dokumen kata-kata saya sehingga Anda dapat pergi dan menjelajahi.
+
+12:11.180 --> 12:14.120
+Baiklah biarkan aku pergi dan hanya untuk itu.
+
+12:14.150 --> 12:18.200
+Bagaimanapun kita tidak akan menunggu sampai jam 6 a. m. di pagi hari untuk melihat hasilnya.
+
+12:18.320 --> 12:21.020
+Tapi saya bisa menunjukkan di mana tepatnya kita bisa meletakkannya.
+
+12:21.350 --> 12:24.300
+Yah, cukup awal, Kelly, dan pra-melek
+
+12:34.350 --> 12:42.390
+Anda melihat OK menyelamatkan proyek dan sekarang jadi kami melihat bahwa kami juga harus menghasilkan hasil secara paksa.
+
+12:42.690 --> 12:44.360
+Mari kita membangun proyek itu lagi.
+
+12:45.550 --> 12:48.840
+Saya belum pagi jam 8:00 a. m. Saya yakin melakukannya secara manual.
+
+12:49.010 --> 12:49.840
+BAIK.
+
+12:50.240 --> 12:58.320
+Jadi begitu Anda berada di bel sekarang Anda akan melihat satu tautan di sini disebut tes menguji hasilnya.
+
+12:58.390 --> 13:02.430
+Anda juga akan mendapatkan beberapa grafik daging tetapi untuk fastball Anda akan mendapatkan ini.
+
+13:02.730 --> 13:03.000
+BAIK.
+
+13:03.000 --> 13:08.970
+Jadi, grafik hasil sensor hal-hal seperti bagaimana hasil berperilaku untuk setiap pekerjaan Anda bisa
+
+13:08.970 --> 13:10.930
+memiliki setidaknya lima data.
+
+13:10.950 --> 13:15.350
+Jadi berdasarkan pada lima kelahiran baru, itu menciptakan grafik itu untuk Anda.
+
+13:15.420 --> 13:19.350
+Tapi pertama-tama kamu tidak mendapatkan pekerjaan ini.
+
+13:19.350 --> 13:23.260
+Jadi sepertinya eksekusi terbaik selesai.
+
+13:24.730 --> 13:30.940
+Sekali lagi mari kita kembali dan masuk ke dalamnya Evangel lagi dan Anda akan melihat bahwa begitu mereka kembali Anda akan
+
+13:30.940 --> 13:33.590
+melihat sesuatu seperti tes ini dan mendapatkan hasil.
+
+13:35.120 --> 13:36.030
+BAIK.
+
+13:36.050 --> 13:37.640
+Dan Anda juga akan mengatakan Biarkan lakukan ini.
+
+13:37.740 --> 13:48.070
+Jadi tidak ada kegagalan dalam menguji hasil Anda dan dikatakan total Sixtus klik pada tautan yang sangat bagus ini karena
+
+13:48.080 --> 13:52.810
+itu tagihannya tepat dan Anda akan lihat di sini.
+
+13:53.500 --> 13:55.040
+Ini adalah paket Anda klik.
+
+13:55.050 --> 13:56.320
+Akademi.
+
+13:56.580 --> 13:57.370
+BAIK.
+
+13:57.370 --> 14:04.550
+Jadi ada tiga file kelas TAWAR dan masing-masing file kelas memiliki dua kasus uji.
+
+14:04.570 --> 14:05.480
+Jadi Anda lihat itu baik-baik saja.
+
+14:05.490 --> 14:11.770
+Saya pikir kelas ini adalah kelas yang baik langkah dalam rpm dan selenium sehingga langkah mereka mengambil 7 detik
+
+14:11.770 --> 14:14.450
+dan tidak ada kegagalan membawanya ke diskus.
+
+14:14.560 --> 14:22.220
+IBM tahu satu detik untuk menguji kasus-kasus konyol yang memerlukan waktu 17 detik dengan dua disk.
+
+14:22.390 --> 14:30.710
+Jadi, jika Anda turun Anda akan memiliki tes rinci atau lulus atau gagal analisis untuk setiap tes.
+
+14:31.000 --> 14:36.880
+Jadi ini adalah enam kasus pengujian Anda lurus dan homestyle dan mengambil RAM dan jam
+
+14:36.880 --> 14:40.170
+berapa dimulai dan status itu bos semua gagal.
+
+14:40.600 --> 14:47.800
+OK jadi dengan cara ini Anda akan mendapatkan laporan terperinci sejauh ini bahwa jika hasilnya sesuai dengan tagihan maka
+
+14:48.250 --> 14:52.160
+Anda harus pasang tagihan ini dan lihat hasilnya di sini.
+
+14:55.050 --> 14:55.270
+Ya.
+
+14:55.390 --> 14:57.810
+Jadi klik pada hasil tes dan terbaru.
+
+14:57.880 --> 15:04.760
+Cahaya api yang brutal dan Anda akan mendapatkan hasilnya di sini jika Anda membuka meja dan mengerjakannya.
+
+15:04.760 --> 15:06.730
+Jadi, Anda juga akan membuat saya turun di sini.
+
+15:06.740 --> 15:08.510
+Namun saat ini hanya ada satu tagihan.
+
+15:08.510 --> 15:20.300
+Jadi itu sebabnya kamu tidak memiliki sakuku, biarkan aku melihat apakah aku memiliki dua kali lipat sempurna. Kurasa aku bahkan tidak benar-benar
+
+15:23.860 --> 15:25.290
+di sini.
+
+15:27.320 --> 15:29.050
+Ya saya tidak punya.
+
+15:29.270 --> 15:33.840
+Jadi, tetap jalankan tes ini selama lima kali dan Anda akan melihat hasilnya.
+
+15:33.870 --> 15:35.060
+OK, mari kita jalankan sekarang.
+
+15:35.630 --> 15:41.330
+Biarkan saya berputar cepat empat lima kali dan saya berharap kita akan mendapatkan sesuatu.
+
+15:41.450 --> 15:47.260
+Jadi Bill sekarang saya akan melewatkan videonya sehingga saya tidak ingin membuang waktu berharga Anda.
+
+15:48.940 --> 15:49.500
+Kanan.
+
+15:49.510 --> 15:53.910
+Saya hanya mencoba untuk membalikkan dan saya punya laporan hasil tren di sini.
+
+15:54.160 --> 15:56.400
+Jadi sekarang semua tagihan saya terlewati.
+
+15:56.560 --> 16:00.690
+Itu sebabnya Anda melihat masa lalu Anda melihat semacam enam kasus uji.
+
+16:01.000 --> 16:04.490
+Dan ini adalah pertarungan besar saya baik 6 dan 7.
+
+16:04.720 --> 16:10.540
+Jika Anda membaca setiap hari jika Anda menjalankan selama 30 hari Anda akan turun seperti ini karena tidak ada
+
+16:10.540 --> 16:13.390
+yang gagal Anda melihat bahwa semua pasta dengan biru.
+
+16:13.630 --> 16:17.140
+Dan jika ada kegagalan, Anda akan melihat tanda merah yang menunjukkan di sini.
+
+16:17.170 --> 16:22.220
+Jadi dalam hal itu Anda bisa menahan taruhan Anda.
+
+16:22.240 --> 16:28.690
+Jadi pada dasarnya para pebisnis mengaku mengelola lama dalam pekerjaan ini dan mereka melihat grafik hasil di sini
+
+16:29.020 --> 16:32.020
+jika semuanya biru dan hijau itu baik-baik saja.
+
+16:32.050 --> 16:38.470
+Jadi jika Anda melihat banyak hal di sini, itu berarti Anda membuat pernyataan yang mengatakan mengapa mereka tidak terlihat baik-baik
+
+16:39.620 --> 16:39.950
+saja.
+
+16:39.960 --> 16:46.840
+Jadi begitulah cara Anda dapat mempublikasikan hasil Anda dan menambahkan dengan bantuan yang ditakdirkan untuk dipasang.
+
+16:46.850 --> 16:48.550
+Begitu juga itu penting.
+
+16:48.560 --> 16:56.780
+Jenkins dan Mavin marah, saya harap kalian punya cukup pengetahuan dan paparan tentang hal ini di kuliah berikutnya.
+
+16:56.780 --> 16:59.460
+Mari kita mulai dengan satu topik lagi.
+
+16:59.600 --> 17:07.430
+Dan seperti yang saya katakan kami akan menyuntikkan selenium nyata atau r. hal. m. API kami disebut Berbasis pada Anda tentu
+
+17:07.820 --> 17:10.450
+saja belajar dan kami akan melihat bahwa secara rinci tindakan incomings.
+
+17:10.580 --> 17:11.070
+BAIK.
+
+17:11.270 --> 17:11.960
+Terima kasih.
