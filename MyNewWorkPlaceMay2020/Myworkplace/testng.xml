@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+	<test  name="ChildWindow">
+		<classes>
+			<class name="childWindowHandle.NestedFrameAsignment" />
+			<class name="childWindowHandle.MultipleWindowWithlimitScope" />
+			<class name="childWindowHandle.calanderHandle" />
+			<class name="childWindowHandle.Asingment2DropBox" />
+			<class name="childWindowHandle.DropandDrag" />
+			<class name="childWindowHandle.FrameHandeling" />
+		</classes>
+	</test>
+	<test name="ActionclassDemo">
+		<classes>
+			<class name="practiceActionClass.MypracticeActionClass" />
+
+		</classes>
+
+	</test>
+	
+	
+
+</suite> 
